@@ -1,0 +1,24 @@
+Open CMD in full screen
+
+Write the following:
+	g++ -o 15L-4351.exe myconsole.cpp 15L-4351.cpp mygraphics.cpp -lgdi32
+
+Rules
+For the upward motion
+Word will appear for a split second and then vanish.
+User has to enter the exact three character if he wants the word to move in the row above
+If the user enters the word incorrectly, the word will appear again. This time the word will be one step above.
+The word will then vanish again.
+The user should only enter the word correctly when that word is exactly one row below its matching word.
+The user will win if five words are placed correctly.
+Otherwise the game will terminate after seven tries
+
+High scores are also maintained and saved through filing.
+High scores can be set to zero again by making the changes in the orignal notepad document named highScore.
+
+Thank You!
+Have fun playing!
+
+P.S If you found it useful, please give it a star :D. For improvements feel free to generate a pull request.
+
+Zara Ahmad
