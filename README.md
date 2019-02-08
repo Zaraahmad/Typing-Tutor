@@ -58,7 +58,5 @@ Have fun playing!
 ## Author
 [**Zara Ahmad**](https://github.com/Zaraahmad)
 
-To stay updated with my GitHub Repositories follow me here on github:
-
-
-[![GitHub](https://img.shields.io/badge/Connect-zaraahmad-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/zaraahmad)
+To stay updated with my GitHub Repositories follow me here on github:<br/>
+[![GitHub](https://img.shields.io/badge/Connect-zaraahmad-blue.svg?logo=Github&longCache=true&style=flatl&label=Follow)](https://github.com/zaraahmad)
